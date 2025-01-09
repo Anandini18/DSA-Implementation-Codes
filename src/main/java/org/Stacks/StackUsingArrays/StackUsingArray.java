@@ -1,7 +1,4 @@
-package org.Stacks;
-
-import java.util.Arrays;
-import java.util.Stack;
+package org.Stacks.StackUsingArrays;
 
 public class StackUsingArray {
 

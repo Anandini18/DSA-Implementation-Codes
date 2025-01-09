@@ -1,4 +1,4 @@
-package org.Stacks;
+package org.Stacks.StackUsingArrays;
 
 public class Main {
     public static void main(String[] args) {
